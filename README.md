@@ -1,2 +1,2 @@
-# wm
+# oxy
 A Wayland window manager...
